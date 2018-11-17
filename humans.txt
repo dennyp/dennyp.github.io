@@ -1,0 +1,10 @@
+/* TEAM */
+        One man army: Denny Petersson
+        Github: dennyp
+        From: Växjö, Sweden
+
+/* SITE */
+        Last update: 2018-11-17
+        Language: English
+        Doctype: HTML5
+        IDE: Visual Studio Code
