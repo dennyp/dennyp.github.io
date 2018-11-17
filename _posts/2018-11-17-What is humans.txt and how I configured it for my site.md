@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "What is humans.txt and how have you configured it for your site?"
-date:   2018-11-17 13:49:58 +0100
+title:  "What is humans.txt and how I configured it for my site"
+date:   2018-11-17 14:11:58 +0100
 categories: jekyll update
 ---
 
