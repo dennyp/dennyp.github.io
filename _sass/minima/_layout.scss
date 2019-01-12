@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-dark;
   min-height: $spacing-unit * 1.865;
   background-color: $header-color;
 
@@ -128,7 +128,8 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
+  border-bottom: 5px solid $grey-color-dark;
   padding: $spacing-unit 0;
   background-color: $footer-color;
 }
@@ -216,6 +217,8 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    padding-left: 10px;
+    border-left: 1px solid $grey-color;
   }
 }
 
@@ -258,6 +261,8 @@
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);
     }
+
+    border-bottom: 1px solid $grey-color;
   }
 
   h3 {
@@ -266,6 +271,8 @@
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.625);
     }
+
+    border-bottom: 1px solid $grey-color;
   }
 
   h4 {
