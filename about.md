@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Denny Petersson and I am 31 years old. I live in a house near a lake just outside Växjö. In my spare time I like to hunt and fish. I usually fish for perch but also for pike and sometimes zander. My favorite game to hunt is roe deer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I work in a company called Elitfönster where I am working as a customer web coordinator. On our customer web our retailers can place quotes and orders without having to contact us directly. My main work tasks are maintaining the product range on the customer web and also the pricing of our products.
